@@ -1,5 +1,11 @@
 #MIST4610 Project 1 - Group 7
 
+Team Members:
+Ryan Dyals @RyanDyals
+Stuti Bhat @Stutibhat2
+Eujin Kang @
+Brandon @
+Matthew Vega @
 
 Problem Description:
 The goal of this project is create a relational database for a soccer club. This club desires to have the database so it can run analytics on match revenues, training sessions, contracts, equipments, players, sponsors, and tickets. To test out the database created for the club, our group is tasked as well to generate sample data to populate the table with instances, create queries that would be relevant to the soccer club, and perform these queries on our sample data.
