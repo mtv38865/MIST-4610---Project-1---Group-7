@@ -35,37 +35,32 @@ Clubs are particulary interested in being able to track data for their players, 
 
 Data Dictionary:
 
-<img width="636" alt="Screenshot 2024-03-27 at 8 21 32 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/d11f4cbf-f444-4573-9013-364e046cdc72">
 
-<img width="618" alt="Screenshot 2024-03-27 at 8 29 16 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/a17d031c-59d7-4405-8bd4-a3845a54f272">
+<img width="629" alt="Coach" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/4304517a-5b18-4225-998b-561808f54257">
 
-<img width="620" alt="Screenshot 2024-03-27 at 8 32 42 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/92f70d2d-b4ed-4799-b77f-614152d697bb">
+<img width="548" alt="Contract" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/ef7b213d-cbe5-4fc4-82c3-94c5a09d6212">
 
-<img width="624" alt="Screenshot 2024-03-27 at 8 36 56 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/3c6b705c-aa4f-428e-a5da-74bc3666fc3d">
+<img width="597" alt="Equipment" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/38ee890f-24c5-4b7b-a463-7b682a7a6a31">
 
-<img width="633" alt="Screenshot 2024-03-27 at 8 43 26 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/a9afaf7d-e34d-43d9-9b95-e40badaf3ddd">
+<img width="588" alt="EquipmentCheck" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/ed9a7a96-9790-4d93-89fa-00a82d85a095">
 
-<img width="632" alt="Screenshot 2024-03-27 at 8 47 26 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/f1323300-5a64-45d9-8bb0-d109a9b03162">
+<img width="623" alt="GameStats" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/04f3281f-75a4-4dcb-930a-7e907efc723c">
 
-<img width="550" alt="Screenshot 2024-03-27 at 8 55 44 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/03b2ae55-3417-49a3-8ec2-918bcabcc758">
+<img width="609" alt="Matches" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/e093c478-9f09-47bf-bc7d-dd39af48f887">
 
-<img width="505" alt="Screenshot 2024-03-27 at 8 57 35 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/55a4a7df-5476-409e-b686-de67e1493ac4">
+<img width="618" alt="Player" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/44104f89-850d-44b1-93e9-a59fa322b403">
 
-<img width="547" alt="Screenshot 2024-03-27 at 9 01 25 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/e59bd155-9d5e-4562-a932-00b322b7d86b">
+<img width="571" alt="Sponsor" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/6358c457-7307-446c-9e11-ed66b9773a7b">
 
+<img width="573" alt="Staff" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/45464e76-2f9c-48b9-87d4-35d87e691569">
 
-<img width="519" alt="Screenshot 2024-03-27 at 8 59 16 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/cb7f6228-0ff3-499d-8ea5-a55f20453721">
+<img width="604" alt="Stadium" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/ba68ee5a-fe1f-4f51-9849-d1f0cffaa5d2">
 
+<img width="596" alt="Team" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/832980ce-6de5-4c5c-8e92-d49ed758ab63">
 
-
-<img width="554" alt="Screenshot 2024-03-27 at 9 02 47 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/1abe33e0-52c0-4c1e-b36d-51c2e9ec0354">
-
-<img width="556" alt="Screenshot 2024-03-27 at 9 04 52 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/0f7f8a66-2433-45ac-9939-fc9777b3f3d7">
+<img width="628" alt="Training" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/cdd737aa-0e56-4156-9827-58b7580bdf00">
 
 
-
-
-<img width="519" alt="Screenshot 2024-03-27 at 8 59 16 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/cb7f6228-0ff3-499d-8ea5-a55f20453721">
 
 
 
