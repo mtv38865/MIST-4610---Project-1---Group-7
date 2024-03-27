@@ -31,6 +31,56 @@ Soccer clubs have to book their matches at stadiums prior the season beginng, si
 Clubs are particulary interested in being able to track data for their players, both for marketing and managerial purposes. The players entity stores data such as total goals scored, blocked, or balls stolen from an opposing player. It also has a foreign key to contract so the club can see how long they are signed to the team for, and what they have to pay them per year. Players on soccer teams also get sponsors, however a player is typically only partnered with only one sponsor while a sponsor can be partnered with many players. This one to many relationship is also present through a foreign key on the player entity. Most importantly, players play in many matches with many of their team mates, meaning a many to many relationship between the two entities. The associate relationship GameStats shows this and allows for the tracking of player game statistics such as the goals they scored in one match at a particular stadium compared to their overall statistics in the player table.
 
 
+Data Dictionary:
+
+<img width="636" alt="Screenshot 2024-03-27 at 8 21 32 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/d11f4cbf-f444-4573-9013-364e046cdc72">
+
+<img width="618" alt="Screenshot 2024-03-27 at 8 29 16 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/a17d031c-59d7-4405-8bd4-a3845a54f272">
+
+<img width="620" alt="Screenshot 2024-03-27 at 8 32 42 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/92f70d2d-b4ed-4799-b77f-614152d697bb">
+
+<img width="624" alt="Screenshot 2024-03-27 at 8 36 56 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/3c6b705c-aa4f-428e-a5da-74bc3666fc3d">
+
+<img width="633" alt="Screenshot 2024-03-27 at 8 43 26 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/a9afaf7d-e34d-43d9-9b95-e40badaf3ddd">
+
+<img width="632" alt="Screenshot 2024-03-27 at 8 47 26 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/f1323300-5a64-45d9-8bb0-d109a9b03162">
+
+<img width="550" alt="Screenshot 2024-03-27 at 8 55 44 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/03b2ae55-3417-49a3-8ec2-918bcabcc758">
+
+<img width="505" alt="Screenshot 2024-03-27 at 8 57 35 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/55a4a7df-5476-409e-b686-de67e1493ac4">
+
+<img width="519" alt="Screenshot 2024-03-27 at 8 59 16 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/cb7f6228-0ff3-499d-8ea5-a55f20453721">
+
+
+<img width="547" alt="Screenshot 2024-03-27 at 9 01 25 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/e59bd155-9d5e-4562-a932-00b322b7d86b">
+
+<img width="554" alt="Screenshot 2024-03-27 at 9 02 47 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/1abe33e0-52c0-4c1e-b36d-51c2e9ec0354">
+
+<img width="556" alt="Screenshot 2024-03-27 at 9 04 52 AM" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/0f7f8a66-2433-45ac-9939-fc9777b3f3d7">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
