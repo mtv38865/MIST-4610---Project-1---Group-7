@@ -1,4 +1,4 @@
-#MIST4610 Project 1 - Group 7
+MIST4610 Project 1 - Group 7
 
 Team Members:
 
@@ -8,7 +8,7 @@ Eujin Kang @
 Brandon @
 Matthew Vega @
 
-Problem Description:
+#Problem Description:
 The goal of this project is create a data model and convert it into a functioning relational database for a soccer club. This club desires to have the database so it can run analytics on match revenues, training sessions, contracts, equipment, players, sponsors, and tickets. To test out the database created for the club, our group is tasked as well to generate sample data to populate the tables with instances, create queries that would be relevant to the soccer club, and perform these queries on our sample data.
 
 
@@ -62,15 +62,45 @@ Data Dictionary:
 
 
 
+Queries:
+
+#1
+<img width="1116" alt="Query 1" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/73eee8a9-02ad-4e50-a378-231cd339495f">
 
 
+#2
+<img width="1107" alt="Query 2" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/3b7c4427-67d8-4ffb-8a85-331b679edebd">
+
+#3
+<img width="707" alt="Query 3" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/38ee40d3-c851-4905-aa5f-c642b3bd8ccf">
 
 
+#4
+<img width="704" alt="Query 4" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/ca0b5311-8f1a-40be-ba78-cf947aa2f9c4">
+
+#5
+<img width="1136" alt="Query 5" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/345b27a6-023a-4ebe-82af-10fc1915e3b1">
+
+#6
+<img width="714" alt="Query 6" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/0b9b5b6c-0751-4d5d-bbb8-2a983121bda7">
 
 
+#7
+
+<img width="1126" alt="Query 7" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/ec3bf5d2-cc7e-4873-ae80-8b004f5b7017">
+
+#8
+
+<img width="1129" alt="Query 8" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/bdbf485c-8c75-442a-91eb-e65abd45d155">
 
 
+#9
 
+<img width="739" alt="Query 9" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/dc636ff5-2bb1-466f-89c8-5f6c70a1eaf9">
+
+#10
+
+<img width="708" alt="Query 10" src="https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/5df5ed36-57c3-4fb6-8c1c-b86712ff56a8">
 
 
 
