@@ -1,6 +1,7 @@
 #MIST4610 Project 1 - Group 7
 
 Team Members:
+
 Ryan Dyals @RyanDyals
 Stuti Bhat @Stutibhat2
 Eujin Kang @
