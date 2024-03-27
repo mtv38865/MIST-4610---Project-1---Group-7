@@ -13,7 +13,8 @@ The goal of this project is create a data model and convert it into a functionin
 
 
 Data Model:
-![Final Model (2)](https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/a6c53fbc-2915-4273-9927-9f393e22ddfa)
+![Final Model (2)](https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/assets/134531824/86173fd0-ab51-42ed-816d-70ac1625be0d)
+
 
 Explanations:
 
