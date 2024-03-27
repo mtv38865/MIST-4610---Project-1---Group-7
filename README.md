@@ -2,7 +2,7 @@
 
 # **Team Members:**
 
-Ryan Dyals @RyanDyals
+Ryan Dyals [@RyanDyals](https://github.com/RyanDyals/MIST-4610---Project-1---Group-7/tree/main)
 Stuti Bhat [@Stutibhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-1)
 Eujin Kang [@EujinKang](https://github.com/eujinkang/MIST-4610-Group7-Project-1-G)
 Brandon Yum [@BrandonYum](https://github.com/BRANDONYUM/Team-7-MIST-4610-Group-Project-1)
