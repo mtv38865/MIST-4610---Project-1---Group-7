@@ -9,7 +9,7 @@ Ryan Dyals [@RyanDyals](https://github.com/RyanDyals/MIST-4610---Project-1---Gro
 Stuti Bhat [@Stutibhat2](https://github.com/stutibhat2/MIST-4610-Group-7-Project-1)
 Eujin Kang [@EujinKang](https://github.com/eujinkang/MIST-4610-Group7-Project-1-G)
 Brandon Yum [@BrandonYum](https://github.com/BRANDONYUM/Team-7-MIST-4610-Group-Project-1)
-Matthew Vega @[@mtv38865](https://github.com/mtv38865/MIST4610-GROUP7-PROJECT1)
+Matthew Vega [@mtv38865](https://github.com/mtv38865/MIST4610-GROUP7-PROJECT1)
 
 # **Problem Description:**
 The goal of this project is create a data model and convert it into a functioning relational database for a soccer club. This club desires to have the database so it can run analytics on match revenues, game statistics, training sessions, contracts, equipment, players, sponsors, and tickets. To test out the database created for the club, our group is tasked as well to generate sample data to populate the tables with instances, create queries that would be relevant to the soccer club, and perform these queries on our sample data.
